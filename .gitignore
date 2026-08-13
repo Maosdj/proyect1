@@ -1,0 +1,11 @@
+# Base de datos local del negocio (se crea sola al iniciar el servidor)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
