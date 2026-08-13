@@ -142,3 +142,4 @@ archivo (hágalo con el servidor detenido, y copie también `pos.db-wal` si exis
   ver reportes ni administrar usuarios.
 - El servidor está pensado para la red local del negocio. Si algún día lo expone a
   internet, póngalo detrás de un proxy con HTTPS.
+# proyect1
